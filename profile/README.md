@@ -15,11 +15,11 @@ Proyek dikembangkan dengan pendekatan **Agile** (Scrum/Kanban), menggunakan sikl
 
 ## 🛠️ Teknologi yang Digunakan
 - **Frontend:** React / Next.js
-- **Backend:** Laravel / Express / Node.js *(disesuaikan per modul)*
+- **Backend:** Laravel / Express / Node.js
 - **Database:** MySQL / PostgreSQL
 - **Version Control:** Git + GitHub
-- **Project Management:** ClickUp
-- **CI/CD:** GitHub Actions *(jika tersedia)*
+- **Project Management:** Jira Atlassian
+- **CI/CD:** GitHub Actions
 
 ## 👥 Tim Pengembang
 - **Fullstack Developer:** Arif Widagdo
